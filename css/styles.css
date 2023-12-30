@@ -1,0 +1,208 @@
+body{
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+}
+
+
+
+h3 {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.big-heading {
+  color: white;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.section-heading {
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+/* title and navigation bar */
+#title {
+  position: relative;
+  text-align: left;
+}
+/* sections */
+.colored-section{
+  color: #fff;
+  background-color: #ff4c68;
+}
+.white-section{
+  background-color: #fff;
+}
+.outside_container_fluid {
+  padding: 3% 15%;
+}
+
+.navbar {
+  padding: 0 0 4.5rem 0;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+
+.Download-buttons {
+  margin: 5% 3% 5% 0;
+}
+
+.title-image {
+  width: 60%;
+  height: auto;
+  transform: rotate(25deg);
+  position: relative;
+  z-index: 1;
+  left: 30%;
+}
+
+/* Features */
+#features {
+  padding: 7% 15%;
+  position: relative;
+  bottom: 200px;
+  z-index: 2;
+}
+
+.feature-box {
+  padding: 5%;
+}
+.feature-title{
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+/* Testimonials */
+#testimonials {
+  background-color: #ef8172;
+  position: relative;
+  bottom: 200px;
+}
+
+.testimonial-text {
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/* press is almost part of the testimonials itself */
+
+#press {
+  background-color: #ef8172;
+  padding-bottom: 3%;
+  position: relative;
+  bottom: 200px;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+/* Pricing */
+.card-header{
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+#pricing {
+  padding: 100px;
+  position: relative;
+  bottom: 200px;
+}
+
+.pricing-card-title {
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.pricing-button {
+  margin-bottom: 10px;
+}
+
+/* call to action, strong download urge */
+#cta {
+  padding: 7% 15%;
+  position: relative;
+  bottom: 200px;
+  position: relative;
+  z-index: 1;
+}
+
+
+/* footer */
+#footer {
+  padding: 7% 15%;
+  position: relative;
+  margin-top: -200px;
+  z-index: 2;
+}
+
+.social-icons {
+  padding: 20px 10px;
+}
+
+/* adjusting for different devices */
+@media (max-width: 1028px) {
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+}

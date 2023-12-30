@@ -44,7 +44,7 @@ To get a local copy up and running, follow these simple steps:
 
 The project doesn't require any additional setup. Just clone the repository and open the HTML file in a browser.
 
-1. Clone the repository: `git clone https://github.com/vivekbiragoni/TinDog.git`
+1. Clone the repository: `git clone https://github.com/vivekbiragoni/tindog_bootstrap.git`
 2. Open the project folder in your preferred code editor.
 3. Open the `index.html` file in a web browser to view the website.
 

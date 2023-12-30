@@ -68,4 +68,4 @@ Contributions are welcome! If you'd like to contribute to TinDog, please follow 
 
 ## License
 
-This project is licensed under the [MIT License](link_to_license_file).
+This project is licensed under the [MIT License]([link_to_license_file](https://github.com/vivekbiragoni/tindog_bootstrap/blob/main/LICENSE)https://github.com/vivekbiragoni/tindog_bootstrap/blob/main/LICENSE).

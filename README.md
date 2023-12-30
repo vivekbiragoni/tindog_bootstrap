@@ -1,7 +1,7 @@
-# tindog_bootstrap
+
 # TinDog
 
-![TinDog](link_to_your_logo_or_image)
+![TinDog]
 
 TinDog is a fictional project that showcases a stylish and modern website for connecting dogs and their owners. This README provides an overview of the project structure and key features.
 
